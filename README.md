@@ -41,3 +41,8 @@ repository for practic Astafurov Egor!
 
 <img width="1048" alt="image" src="https://user-images.githubusercontent.com/117389528/222672799-e106ff24-c1cc-41eb-a315-114d4eb43215.png">
 
+Проектирование и создание Базы данных для API интернет магазина 
+
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/117389528/225905270-e96a8200-3e6f-453a-b31e-f6592fb04c92.png">
+
+
