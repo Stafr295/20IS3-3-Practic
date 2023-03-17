@@ -47,4 +47,5 @@ repository for practic Astafurov Egor!
 
 # [Создание TO DO List](https://github.com/users/Stafr295/projects/1/views/1)
 
+![image](https://user-images.githubusercontent.com/117389528/225913014-013a192a-d30e-479c-8d3e-7b0c4b159124.png)
 
