@@ -65,3 +65,11 @@ repository for practic Astafurov Egor!
 
 <img width="1037" alt="image" src="https://github.com/Stafr295/20IS3-3-Practic/assets/117389528/e4f427a1-403c-47e0-a9c1-1cc973c6f1e0">
 
+# Практическая №8
+
+<img width="1037" alt="image" src="https://github.com/Stafr295/20IS3-3-Practic/assets/117389528/ed5a8cb2-0fea-4534-903c-cbdda2401f99">
+
+<img width="1042" alt="image" src="https://github.com/Stafr295/20IS3-3-Practic/assets/117389528/0820b827-adb6-44a2-9879-fcc2d08a37a8">
+
+<img width="1040" alt="image" src="https://github.com/Stafr295/20IS3-3-Practic/assets/117389528/e2c3f8c5-c48b-420d-b305-be739cd258b7">
+
